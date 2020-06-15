@@ -1,5 +1,5 @@
 _repo: Juliao-e-a-Biblia_62352
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Julián y la Biblia. Portuguese
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     - Cunha, Guilherme Dias da
     gutenberg_agent_id: '51910'
     url: http://www.gutenberg.org/2009/agents/51910
+covers:
+- cover_type: archival
+  image_path: 62352-h/images/cover.jpg
 creator:
   author:
     agent_name: Martínez, Emilio
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '51909'
     url: http://www.gutenberg.org/2009/agents/51909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62352#Juliao-e-a-Biblia
 gutenberg_issued: '2020-06-08'
 gutenberg_type: Text
 identifiers:
