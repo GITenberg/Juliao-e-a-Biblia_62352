@@ -1,0 +1,35 @@
+_repo: Juliao-e-a-Biblia_62352
+_version: 0.0.1
+alternative_title: Julián y la Biblia. Portuguese
+contributor:
+  translator:
+    agent_name: Dias, Guilherme
+    aliases:
+    - Da Cunha, Guilherme Dias
+    - Cunha, Guilherme Dias da
+    gutenberg_agent_id: '51910'
+    url: http://www.gutenberg.org/2009/agents/51910
+creator:
+  author:
+    agent_name: Martínez, Emilio
+    alias: Martinez, Emilio
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '51909'
+    url: http://www.gutenberg.org/2009/agents/51909
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62352'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Spanish fiction -- Translations into Portuguese'
+- !lcc 'PQ'
+- GITenberg
+title: Julião e a Biblia
+url: http://www.gutenberg.org/ebooks/62352
